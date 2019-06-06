@@ -6,3 +6,5 @@ My extra test
 My extra test2
 hello
 Creating a new branch is quick.
+
+你好啊
