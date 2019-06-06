@@ -8,5 +8,9 @@ hello
 Creating a new branch is quick.
 
 你好啊
+<<<<<<< HEAD
 
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
