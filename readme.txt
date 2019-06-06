@@ -8,3 +8,5 @@ hello
 Creating a new branch is quick.
 
 你好啊
+
+Creating a new branch is quick & simple.
