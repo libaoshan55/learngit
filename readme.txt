@@ -5,7 +5,5 @@ Git tracks changes of files.
 My extra test
 My extra test2
 hello
-Creating a new branch is quick.
-master test
-feature1 test
+
 
