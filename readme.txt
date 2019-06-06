@@ -10,3 +10,5 @@ Creating a new branch is quick AND simple.
 
 
 --no-ff branch master
+
+no no-ff merge test
